@@ -290,6 +290,15 @@ section:last-of-type { border-bottom: none; }
   background: var(--ink-2);
 }
 
+.bio-photo {
+  width: 100%;
+  aspect-ratio: 4 / 5;
+  object-fit: cover;
+  border: 1px solid var(--line);
+  margin-bottom: 22px;
+  filter: grayscale(15%);
+}
+
 .bio-figure .name {
   font-family: var(--display);
   font-size: 1.4rem;
