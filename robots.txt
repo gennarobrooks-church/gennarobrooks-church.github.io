@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://gennarobrookschurch.example.com/sitemap.xml
+Sitemap: https://gennarobrooks-church.github.io/sitemap.xml
